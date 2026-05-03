@@ -76,10 +76,6 @@ Open **http://127.0.0.1:5173**
 1. On the public site, scroll to the footer and click the **small lock icon** (hidden entry).
 2. Sign in with the seeded account (change password in production):
 
-| Field | Value (after `seed`) |
-|--------|----------------------|
-| Email | `admin@local` |
-| Password | `admin12345` |
 
 In the admin you can edit **Profile**, **Experience**, **Skills**, **Achievements**, **Media**, and **Theme** (primary / secondary colors).
 
