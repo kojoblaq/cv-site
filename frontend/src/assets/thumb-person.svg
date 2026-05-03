@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#07090b"/>
+  <g opacity="0.9">
+    <circle cx="600" cy="365" r="130" fill="rgba(255,255,255,0.10)"/>
+    <path d="M330 820c22-160 150-260 270-260h0c120 0 248 100 270 260" fill="rgba(255,255,255,0.10)"/>
+    <path d="M330 820c22-160 150-260 270-260h0c120 0 248 100 270 260" fill="none" stroke="rgba(255,255,255,0.14)" stroke-width="10"/>
+    <circle cx="600" cy="365" r="130" fill="none" stroke="rgba(255,255,255,0.16)" stroke-width="10"/>
+  </g>
+  <text x="600" y="120" fill="rgba(255,255,255,0.52)" font-family="Inter, Arial" font-size="26" text-anchor="middle">Thumbnail</text>
+</svg>
